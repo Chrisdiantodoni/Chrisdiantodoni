@@ -23,8 +23,8 @@ A variety of business and financial dashboards with modern tech stacks & automat
 ---
 
 📫 **Reach Me On:**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/chrisdiantodoni)
-[![Gmail](https://img.shields.io/badge/-Email-red?logo=gmail&style=flat-square)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](www.linkedin.com/in/doni-c-853901106)
+[![Gmail](https://img.shields.io/badge/-Email-red?logo=gmail&style=flat-square)](mailto:chrisdiantodoni@gmail.com)
 
 ---
 
